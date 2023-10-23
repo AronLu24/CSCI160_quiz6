@@ -1,0 +1,17 @@
+Plus Minus:
+
+
+Time Complexity: The time complexity of this function is O(n), 
+where 'n' is the number of elements in the input array 'arr'. The function 
+iterates through the array once, performing a constant amount of work for 
+each element. Therefore, the time complexity is linear with respect to 
+the input size.
+
+Space Complexity: The space complexity of this function is O(1), which means 
+it uses a constant amount of extra space regardless of the size of the input array. 
+The function uses a few integer variables to keep track of counts and fractions, 
+but the space used for these variables does not depend on the size of the input array.
+
+
+
+
